@@ -1,0 +1,8 @@
+cn\sher6j\dao\IMemberDao.class
+cn\sher6j\dao\ITravellerDao.class
+cn\sher6j\dao\IProductDao.class
+cn\sher6j\dao\IUserDao.class
+cn\sher6j\dao\IRoleDao.class
+cn\sher6j\dao\IPermissionDao.class
+cn\sher6j\dao\ISysLogDao.class
+cn\sher6j\dao\IOrdersDao.class

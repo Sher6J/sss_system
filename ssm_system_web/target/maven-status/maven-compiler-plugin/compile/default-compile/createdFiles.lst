@@ -1,0 +1,7 @@
+cn\sher6j\controller\UserController.class
+cn\sher6j\controller\OrdersController.class
+cn\sher6j\controller\RoleContrloller.class
+cn\sher6j\controller\LogAop.class
+cn\sher6j\controller\PermissionController.class
+cn\sher6j\controller\SysLogController.class
+cn\sher6j\controller\ProductController.class

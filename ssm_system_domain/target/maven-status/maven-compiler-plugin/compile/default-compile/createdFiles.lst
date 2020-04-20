@@ -1,0 +1,8 @@
+cn\sher6j\domain\Product.class
+cn\sher6j\domain\UserInfo.class
+cn\sher6j\domain\SysLog.class
+cn\sher6j\domain\Permission.class
+cn\sher6j\domain\Orders.class
+cn\sher6j\domain\Role.class
+cn\sher6j\domain\Traveller.class
+cn\sher6j\domain\Member.class
